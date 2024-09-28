@@ -1,1 +1,3 @@
-# ubiquitous-rotary-phone
+# joszerencset
+
+## HELLO ez valami
